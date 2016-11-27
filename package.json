@@ -1,0 +1,26 @@
+{
+  "name": "marvelous-css-api",
+  "version": "1.0.0",
+  "description": "Simple css api, get all access",
+  "main": "scrapper.js",
+  "scripts": {
+    "start": "node scrapper.js && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeCrew/marvelous-css-api.git"
+  },
+  "author": "github.com/LeCrew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeCrew/marvelous-css-api/issues"
+  },
+  "homepage": "https://github.com/LeCrew/marvelous-css-api#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "jsonfile": "^2.4.0",
+    "lodash": "^4.17.2",
+    "path": "^0.12.7",
+    "request": "^2.79.0"
+  }
+}
