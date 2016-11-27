@@ -135,9 +135,7 @@ Just include css-api.js in your html page and see the magic in window.css
       
     }
     
-## UPDATE THE REFERENCE
-
-Just launch
+## LAUNCH THE SCRIPT
 
         $> npm run start
         
