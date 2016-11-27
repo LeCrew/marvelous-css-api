@@ -118,20 +118,22 @@ Just include css-api.js in your html page and see the magic in window.css
 
     window.css = {
 
-      reference: { ... },                              // the complete cssSheet (cssSheet.json at project root)
+      reference: { ... },                             // the complete cssSheet (cssSheet.json at project root)
 
-      getAttr: function(attributeName){},              // return attributeName object
-      getValues: function(attributeName){},            // return possible values pattern form attributeName
-      getDefaultValues: function(attributeName){},     // return possible default values pattern from attributeName
-      getTypes: function(attributeName){},             // return all attribute types, with for each a regexp tester and units
-      getSupports: function(attributeName){},          // return browsers/mobiles support
+      getAttr: (attributeName){},                     // return attributeName object
+      getValues: (attributeName){},                   // return possible values pattern form attributeName
+      getDefaultValues: (attributeName){},            // return possible default values pattern from attributeName
+      getChildrenNames: (attributeName){},            // return all children name
+      getChildrenDefaultValues: (attributeName){},    // return all children default values
+      getTypes: (attributeName){},                    // return all attribute types, with for each a regexp tester and units
+      getSupports: (attributeName){},                 // return browsers/mobiles support
       
       isValid: function(attributeName, expression){}, // return true/false if the expression is valid for attributeName
-      isParent: function(attributeName){},             // return true/false is the attributeName is a parent attribute
+      isParent: function(attributeName){},            // return true/false is the attributeName is a parent attribute
 
-      getPseudoClasses: function(){},                  // return all CSS pseudo classes
-      getFunctions: function(){},                      // return all CSS functions
-      getRules: function(){},                          // return all CSS rules
+      getPseudoClasses: function(){},                 // return all CSS pseudo classes
+      getFunctions: function(){},                     // return all CSS functions
+      getRules: function(){},                         // return all CSS rules
       
     }
     
