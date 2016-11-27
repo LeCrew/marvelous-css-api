@@ -147,6 +147,7 @@ Take popcorn (but you don't have the time)
 
 - more informations about pseudoClasses, rules and functions.
 - isolated types
+- better support functions
 
 ## IMPORTANT NOTES
 
