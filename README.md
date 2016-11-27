@@ -128,7 +128,7 @@ Just include css-api.js in your html page and see the magic in window.css
       getTypes: (attributeName){},                    // return all attribute types, with for each a regexp tester and units
       getSupports: (attributeName){},                 // return browsers/mobiles support
       
-      isValid: function(attributeName, expression){}, // return true/false if the expression is valid for attributeName
+      isValid: function(attributeName, type, expr){}, // return true/false if the expr is valid for attributeName and type
       isParent: function(attributeName){},            // return true/false is the attributeName is a parent attribute
 
       getPseudoClasses: function(){},                 // return all CSS pseudo classes
