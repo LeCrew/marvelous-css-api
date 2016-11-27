@@ -4,8 +4,6 @@ Get all css datas in JSON.
 
 <img src="http://i.giphy.com/Yv66XRlbWCuQw.gif">
 
-** **EVERYTHING ABOUT WHATEVER IN CSS** **
-
 ** **ALL ATTRIBUTES INFORMATION INCLUDING** **
 
 - NAME
