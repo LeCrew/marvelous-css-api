@@ -22,7 +22,7 @@
 - RULES
 - FUNCTIONS
 
-## WOOOAAAW FRESH, SO #FRESH, BUT HOW CAN I ACCESS IT QUICKLY ???
+## WOAW FRESH, SO #FRESH, BUT HOW CAN I ACCESS IT QUICKLY ???
 
     npm install --save marvelous-css-api
 
