@@ -1,12 +1,8 @@
 # Marvelous-css-api
 
-Get all css values ? Get all types ? All supports ? Yes there is here what you need.
+Get all css informations
 
 <img src="http://i.giphy.com/Yv66XRlbWCuQw.gif">
-
-## SHUT UP AND TAKE MY CSS REFERENCE
-
-** **RIGHT NOW IN YOUR POCKET** ** 
 
 ** **EVERYTHING ABOUT WHATEVER IN CSS** **
 
@@ -24,7 +20,7 @@ Get all css values ? Get all types ? All supports ? Yes there is here what you n
 - RULES
 - FUNCTIONS
 
-## WOAW FRESH, SO #FRESH, BUT HOW CAN I ACCESS IT QUICKLY ???
+## Install & use
 
     npm install --save marvelous-css-api
 
@@ -153,4 +149,4 @@ Take popcorn (but you don't have the time)
 
 ## IMPORTANT NOTES
 
-Do you like it ? Support the crew with all issues and pull requests you can done !
+Support the crew with all issues and pull requests you can done !
