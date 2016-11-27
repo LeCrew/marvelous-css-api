@@ -146,6 +146,7 @@ Take popcorn (but you don't have the time)
 ## TODO
 
 - more informations about pseudoClasses, rules and functions.
+- isolated types
 
 ## IMPORTANT NOTES
 
