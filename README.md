@@ -124,20 +124,18 @@ Just include css-api.js in your html page and see the magic in window.css
       getTypes: (attributeName){},                    // return all attribute types, with for each a regexp tester and units
       getSupports: (attributeName){},                 // return browsers/mobiles support
       
-      isValid: function(attributeName, type, expr){}, // return true/false if the expr is valid for attributeName and type
-      isParent: function(attributeName){},            // return true/false is the attributeName is a parent attribute
+      isValid: (attributeName, type, expr){},         // return true/false if the expr is valid for attributeName and type
+      isParent: (attributeName){},                    // return true/false is the attributeName is a parent attribute
 
-      getPseudoClasses: function(){},                 // return all CSS pseudo classes
-      getFunctions: function(){},                     // return all CSS functions
-      getRules: function(){},                         // return all CSS rules
-      
+      getPseudoClasses: (){},                         // return all CSS pseudo classes
+      getFunctions: (){},                             // return all CSS functions
+      getRules: (){},                                 // return all CSS rules
+        
     }
     
 ## LAUNCH THE SCRIPT
 
         $> npm run start
-        
-Take popcorn (but you don't have the time)
 
 ## TODO
 
