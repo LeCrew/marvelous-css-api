@@ -139,7 +139,7 @@ Just include css-api.js in your html page and see the magic in window.css
 
 Just launch
 
-        $> node scrapper.js
+        $> npm run start
         
 Take popcorn (but you don't have the time)
 
