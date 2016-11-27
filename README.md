@@ -134,6 +134,14 @@ Just include css-api.js in your html page and see the magic in window.css
       getRules: function(){},                          // return all CSS rules
       
     }
+    
+## UPDATE THE REFERENCE
+
+Just launch
+
+        $> node scrapper.js
+        
+Take popcorn (but you don't have the time)
 
 ## TODO
 
