@@ -1,6 +1,6 @@
 # Marvelous-css-api
 
-Get all css informations
+Get all css datas in JSON.
 
 <img src="http://i.giphy.com/Yv66XRlbWCuQw.gif">
 
