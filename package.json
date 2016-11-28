@@ -15,12 +15,5 @@
   "bugs": {
     "url": "https://github.com/LeCrew/marvelous-css-api/issues"
   },
-  "homepage": "https://github.com/LeCrew/marvelous-css-api#readme",
-  "devDependencies": {
-    "cheerio": "^0.22.0",
-    "jsonfile": "^2.4.0",
-    "lodash": "^4.17.2",
-    "path": "^0.12.7",
-    "request": "^2.79.0"
-  }
+  "homepage": "https://github.com/LeCrew/marvelous-css-api#readme"
 }

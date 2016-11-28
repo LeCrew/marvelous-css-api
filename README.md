@@ -22,8 +22,8 @@ Get all css datas in JSON.
 
     npm install --save marvelous-css-api
 
-1. [Access from cssSheet.json](#cssSheet)
-2. [Access from window.css](#cssAPI)
+1. [Window.css.reference](#cssSheet)
+2. [Window.css](#cssAPI)
 
 ## 1. Access from cssSheet.json
 
@@ -132,10 +132,6 @@ Just include css-api.js in your html page and see the magic in window.css
       getRules: (){},                                 // return all CSS rules
         
     }
-    
-## LAUNCH THE SCRIPT
-
-        $> npm run start
 
 ## TODO
 
