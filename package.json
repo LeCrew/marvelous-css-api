@@ -1,6 +1,6 @@
 {
   "name": "marvelous-css-api",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Simple css api, get all access",
   "main": "scrapper.js",
   "scripts": {
