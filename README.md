@@ -1,6 +1,6 @@
 # Marvelous-css-api
 
-Get all css datas in JSON. Datas getted at [SCRAPPER](https://github.com/LeCrew/scrapper-marvelous-css)
+Get all possible values and information about css attributes in JSON. Datas getted from [SCRAPPER](https://github.com/LeCrew/scrapper-marvelous-css)
 
 <img src="http://i.giphy.com/Yv66XRlbWCuQw.gif">
 
