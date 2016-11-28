@@ -16,7 +16,7 @@
     "url": "https://github.com/LeCrew/marvelous-css-api/issues"
   },
   "homepage": "https://github.com/LeCrew/marvelous-css-api#readme",
-  "dependencies": {
+  "devDependencies": {
     "cheerio": "^0.22.0",
     "jsonfile": "^2.4.0",
     "lodash": "^4.17.2",
